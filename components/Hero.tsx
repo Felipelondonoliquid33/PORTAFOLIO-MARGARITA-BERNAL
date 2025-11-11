@@ -80,8 +80,8 @@ export default function Hero() {
           className="text-lg md:text-xl font-light text-gray-500 max-w-2xl mx-auto leading-relaxed"
         >
           <p>
-            Welcome to Margarita Bernal's photography portfolio. In a world
-            dominated by speed and constant motion, Margarita Bernal's
+            Welcome to Margarita Bernal&apos;s photography portfolio. In a world
+            dominated by speed and constant motion, Margarita Bernal&apos;s
             photography invites you to slow down and immerse yourself in a
             visual experience that touches human fragility.
           </p>
