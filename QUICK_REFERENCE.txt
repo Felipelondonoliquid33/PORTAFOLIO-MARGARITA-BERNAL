@@ -1,0 +1,61 @@
+═══════════════════════════════════════════════════════════════
+  PORTFOLIO PROJECT - QUICK REFERENCE CARD
+═══════════════════════════════════════════════════════════════
+
+📦 TO TRANSFER:
+  ✓ Copy entire folder EXCEPT node_modules/ and .next/
+  ✓ All source code, config files, and documentation included
+
+🖥️  ON NEW MACHINE:
+
+  1. Install Node.js (v18+)
+     → https://nodejs.org/
+     → Verify: node --version
+
+  2. Navigate to project folder
+     → cd "path/to/ANTOHER PORTAFOLIO IDEA"
+
+  3. Install dependencies
+     → npm install
+
+  4. Run project
+     → npm run dev
+
+  5. Open browser
+     → http://localhost:3000
+
+═══════════════════════════════════════════════════════════════
+
+📁 KEY FILES:
+  • package.json          - Dependencies
+  • app/page.tsx          - Main page
+  • components/           - All React components
+  • SETUP.md              - Detailed setup guide
+  • TRANSFER_CHECKLIST.md  - Transfer instructions
+
+═══════════════════════════════════════════════════════════════
+
+⚡ QUICK COMMANDS:
+  npm install    → Install dependencies
+  npm run dev    → Start development server
+  npm run build  → Build for production
+  npm start      → Start production server
+
+═══════════════════════════════════════════════════════════════
+
+🔧 IF SOMETHING GOES WRONG:
+  • Port 3000 busy? → npm run dev -- -p 3001
+  • Dependencies fail? → Delete node_modules, run npm install
+  • Check SETUP.md or TROUBLESHOOTING.md
+
+═══════════════════════════════════════════════════════════════
+
+✅ PROJECT FEATURES:
+  • Scroll-pinned hero with horizontal animations
+  • Photo grid with layout formation
+  • Smooth, organic animations
+  • Fully responsive
+  • Accessibility support
+
+═══════════════════════════════════════════════════════════════
+
